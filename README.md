@@ -1,5 +1,8 @@
 # 常见超大字符集 CJK 字体
 
+![GitHub last commit](https://img.shields.io/github/last-commit/zispace/hanzi-fonts-ultra?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/zispace/hanzi-fonts-ultra?style=for-the-badge)
+
 （排序不分先后）
 
 - [WenJinMincho (文津宋体)](https://github.com/takushun-wu/WenJinMincho) ![][wenjinmincho-stars] ![][wenjinmincho-commit]
